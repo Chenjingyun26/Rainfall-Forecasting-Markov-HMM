@@ -1,5 +1,3 @@
-\begin{lstlisting}[language=R]
-
 # ============================================================
 # FOUR-STATE MARKOV CHAIN FOR DAILY WEATHER
 # Real Data: Wilmington International Airport
