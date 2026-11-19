@@ -1,5 +1,3 @@
-\begin{lstlisting}[language=R]
-
 # ============================================================
 # HIDDEN MARKOV MODEL FOR DAILY RAINFALL
 # Real Data: Wilmington International Airport
